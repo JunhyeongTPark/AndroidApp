@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" 안드로이드 앱"</string>
+    <string name="press">저를 누르십시오</string>
+    <string name="score">" 점수: "</string>
+</resources>

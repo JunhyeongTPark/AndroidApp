@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidApp</string>
+    <string name="score">"Score: "</string>
+    <string name="press">Press Me</string>
+</resources>
